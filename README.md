@@ -1,1 +1,3 @@
 # INFO 3305 GROUP PROJECT PROPOSAL
+
+Hello world
