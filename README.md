@@ -1,40 +1,36 @@
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/9cc21e92-bb15-4e34-8822-e16825d3735d)
 
 
-**KULLIYYAH OF INFORMATION & COMMUNICATION TECHNOLOGY**
+## KULLIYYAH OF INFORMATION & COMMUNICATION TECHNOLOGY
 
-**SEMESTER 1, 2024/2025**
+## SEMESTER 1, 2024/2025
 
-**INFO 3305 -- WEB APPLICATION DEVELOPMENT**
+## INFO 3305 -- WEB APPLICATION DEVELOPMENT
 
-**SECTION 01**
+## GROUP PROJECT PROPOSAL
 
-**GROUP PROJECT PROPOSAL**
+### SECTION: SECTION 01
 
-**TITLE PROJECT:**
+### TITLE PROJECT: HOSPITAL MANAGEMENT SYSTEM
 
-**TBD**
+### GROUP: GROUP A
 
-**GROUP A**
-
-**GITHUB LINK: TBD**
-
-**PREPARED BY:**
+### PREPARED BY:
 
   -----------------------------------------------------------------------
   **NAME**                                          **MATRIC NO.**
   ------------------------------------------------- ---------------------
-  ADLYN SOFEA BINTI MOHD ARIFF ADIKA                   2214042
+  ADLYN SOFEA BINTI MOHD ARIFF ADIKA                   (2214042)
 
-  NUR FATNIN IZZATI BINTI SIDIK                        2110294
+  NUR FATNIN IZZATI BINTI SIDIK                        (2110294)
 
-  WAN MUHAMMAD ARIF BIN WAN AZMAN                      2212119
+  WAN MUHAMMAD ARIF BIN WAN AZMAN                      (2212119)
 
-  MUHAMMAD FIRDAUS BIN ZAINI                           2217753
+  MUHAMMAD FIRDAUS BIN ZAINI                           (2217753)
 
-  NURAIN IZZATI BINTI ABD RAUF                         2217978
+  NURAIN IZZATI BINTI ABD RAUF                         (2217978)
 
-  SULTAN ARIFFIN BIN KAMAL                             2218433
+  SULTAN ARIFFIN BIN KAMAL                             (2218433)
   
   -----------------------------------------------------------------------
 
