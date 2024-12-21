@@ -94,17 +94,9 @@ DR KHAIRUL AZMI
 
 # 1. INTRODUCTION OF THE PROPOSED WEB APPLICATION
 
-**Project Name:** Online Quran Tutor Registration and Booking System:
-i-Iqra'
+**Project Name:** Hospital Management System
 
-The \"Online Quran Tutor Registration and Booking System\" is a
-web-based program that simplifies the process of enrolling for Quran
-class sessions and scheduling class times. This platform seeks to
-streamline student-tutor interactions by offering an efficient,
-user-friendly booking session management interface. By focusing on key
-capabilities like registration and booking, the system improves the
-educational experience by lowering administrative overhead and allowing
-students and tutors to simply manage their calendars.
+The \'Hospital Management System\' is a web-based platform that will helps the hospital's administrator to  manage the hospital's database efficiently and seamlessly. This platform seeks efficiency in the hospital management by offering a robust back-end coding and friendly interface. By focusing on key functions like registration of patient, medical record management and doctor and pharmacy record management, the system improves the administrative experience of hospital management by enhancing user experience and manage data of the hospital efficiently.
 
 # 2. OBJECTIVES OF THE WEB APPLICATION
 
