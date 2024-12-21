@@ -50,24 +50,28 @@ DR KHAIRUL AZMI
 
 <ins>**3. FEATURES AND FUNCTIONALITIES OF THE PROPOSED WEB APPLICATION**</ins>
 
-> [3.1 Home Page 3](#home-page)
+> 3.1 Home Page 
 >
-> [3.2 User Authentication 3](#user-authentication)
+> 3.2 User Authentication 
 >
-> [3.3 Student Registration 4](#student-registration)
+> 3.3 Model from Each Team Members
+> > 3.3.1 Patient Registration
+> >
+> > 3.3.2 Appointment Scheduling
+> >
+> > 3.3.3 Billing and Payment
+> >
+> > 3.3.4 Medical Records
+> >
+> > 3.3.5 Doctor Management
+> >
+> > 3.3.6 Pharmacy Management
 >
-> [3.4 Class Booking 4](#class-booking)
->
-> [3.5 Booking Management Dashboard 4](#booking-management-dashboard)
->
-> [3.6 Feedback and Rating 4](#feedback-and-rating)
+> 3.4 Feedback and Rating 
 
-[**4. SEQUENCE DIAGRAM 5**](#sequence-diagram)
+<ins>**4. SEQUENCE DIAGRAM**</ins>
 
-> [4.1 Sequence Diagram 5](#sequence-diagram-1)
-
-[**5. PROJECT SYSTEM CAPTURED SCREEN
-7**](#project-system-captured-screen)
+<ins>[**5. WEBSITE MOCK-UP**<ins>
 
 > [5.1 Home Page 7](#home-page-1)
 >
