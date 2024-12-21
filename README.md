@@ -181,8 +181,7 @@ Allow students to submit comments and rate their classes.
 # 4. SEQUENCE DIAGRAM
 
 ## 4.1 Sequence Diagram
-
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/2398c0ed-f890-44dc-8912-42032f6882aa)
+![sequence diagram](https://github.com/user-attachments/assets/95cc3c68-e912-4ab1-a930-5d7da88d25a0)
 
 
 # 5. PROJECT SYSTEM CAPTURED SCREEN
