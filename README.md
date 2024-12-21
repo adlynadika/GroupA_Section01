@@ -71,26 +71,28 @@ DR KHAIRUL AZMI
 
 <ins>**4. SEQUENCE DIAGRAM**</ins>
 
-<ins>[**5. WEBSITE MOCK-UP**<ins>
+<ins>**5. WEBSITE MOCK-UP**<ins>
 
-> [5.1 Home Page 7](#home-page-1)
+> 5.1 Home Page 
 >
-> [5.2 Student Register Page 10](#student-register-page)
+> 5.2 User Authentication
 >
-> [5.3 Log In Page 11](#log-in-page)
+> 5.3 Patient Registration
 >
-> [5.4 Dashboard Page 11](#dashboard-page)
+> 5.4 Appointment Scheduling
 >
-> [5.5 Book Now Page 12](#book-now-page)
+> 5.5 Billing and Payment
 >
-> [5.6 Feedback Page 13](#feedback-page)
+> 5.6 Medical Records
 >
-> [**6. Challenge/ Difficulties to Develop the Application
-> 14**](#challenge-difficulties-to-develop-the-application)
-
+> 5.7 Doctor Management
+>
+> 5.8 Pharmacy Management
+>
+> 5.9 Feedback and Rating
 #  
 
-# 1. INTRODUCTION OF THE WEB APPLICATION
+# 1. INTRODUCTION OF THE PROPOSED WEB APPLICATION
 
 **Project Name:** Online Quran Tutor Registration and Booking System:
 i-Iqra'
@@ -106,11 +108,7 @@ students and tutors to simply manage their calendars.
 
 # 2. OBJECTIVES OF THE WEB APPLICATION
 
-The project will deliver a fully functional, user-friendly website for
-i-Iqra' Academy. This website will serve as a professional platform to
-promote the business, facilitate students' registrations and class
-booking, and provide information about the business' team and background
-information.
+The objective of the hospital management system website is to provide a comprehensive, user-friendly platform that efficiently manages hospital operations. It offers features such as a dynamic home page, secure user authentication, seamless patient registration, easy appointment scheduling, integrated billing and payment systems, organized medical records management, doctor and pharmacy management, and a feedback and rating system to enhance patient satisfaction. This system aims to improve healthcare service delivery, optimize administrative tasks, and foster effective communication between patients, doctors, and hospital staff.
 
 ## 2.1 Simplify the Registration Process
 
@@ -129,7 +127,7 @@ Provide students with the ability to swiftly schedule available times,
 and provide tutors the ability to oversee and validate these
 reservations.
 
-# 3. FEATURES AND FUNCTIONALITIES OF THE WB APPLICATION
+# 3. FEATURES AND FUNCTIONALITIES OF THE PROPOSED WEB APPLICATION
 
 ## 3.1 Home Page
 
@@ -145,7 +143,7 @@ reservations.
 Users need to log in with the registered email and password. The
 registration page allows new users to sign up.
 
-## 3.3 Student Registration
+## 3.3 Patient Registration
 
 -   Enter student information.
 
@@ -157,16 +155,28 @@ registration page allows new users to sign up.
 -   Approved students will get notification and log-in credentials via
     > email.
 
-## 3.4 Class Booking
+## 3.4 Appointment Scheduling
 
 Students can book a class at a specific day and date at the Booking
 page. Students can view their booked sessions and cancel their booking
 at the Dashboard page.
 
-## 3.5 Booking Management Dashboard
+## 3.5 Billing and Payment
 
 Student Dashboard: An overview of scheduled sessions, including
 information and cancellation option.
+
+## 3.6 Medical Records
+
+Allow students to submit comments and rate their classes.
+
+## 3.6 Doctor Management
+
+Allow students to submit comments and rate their classes.
+
+## 3.6 Pharmacy Management
+
+Allow students to submit comments and rate their classes.
 
 ## 3.6 Feedback and Rating
 
@@ -178,7 +188,7 @@ Allow students to submit comments and rate their classes.
 ![sequence diagram](https://github.com/user-attachments/assets/95cc3c68-e912-4ab1-a930-5d7da88d25a0)
 
 
-# 5. PROJECT SYSTEM CAPTURED SCREEN
+# 5. WEBSITE MOCK-UP
 
 ## 5.1 Home Page
 
@@ -222,7 +232,7 @@ Contact section:
 This is the contact section where users can send any messages or
 questions to i-Iqra' by filling in their name and email address.
 
-## 5.2 Student Register Page
+## 5.2 User Authentication Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/3fe325f1-0f49-4e03-b985-b8d404880585)
 
@@ -231,7 +241,7 @@ Users need to register by filling in their name, email, password,
 confirm password, gender and age. Then, they click the Register button
 or Back to Home to go back to the homepage.
 
-## 5.3 Log In Page
+## 5.3 Patient Registration Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/2a36344e-49a2-4aab-a698-6ab49adadaae)
 
@@ -239,7 +249,7 @@ or Back to Home to go back to the homepage.
 Users need to Log in by filling in their name, and password. Then, they
 click the log in button or Back to Home to go back to the homepage.
 
-## 5.4 Dashboard Page
+## 5.4 Appointment Scheduling Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/8c5535c8-0451-4411-81d8-ce0e43501b96)
 
@@ -255,7 +265,7 @@ go to the homepage.
 
 ## 
 
-## 5.5 Book Now Page
+## 5.5 Billing and Payment Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/b9017469-763e-4e29-8b1d-e34cdeadec98)
 
@@ -270,7 +280,7 @@ choose class type, session platform, level of study and additional
 information (if any). Their booking information will be displayed at the
 Dashboard page.
 
-## 5.6 Feedback Page
+## 5.6 Medical Records Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
 
@@ -279,104 +289,29 @@ The Feedback section will display some reviews by customers and
 information such as their comment, name, location and ratings. Any user
 can add their own feedback by clicking the button 'Give Feedback'.
 
-# 
+## 5.6 Doctor Management Page
 
-# 6. Challenge/ Difficulties to Develop the Application
+![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
 
-## 6.1 Home Page
 
--   **Suitable Design:** We need to choose a suitable template that has
-    > almost similar features and functionalities to our website.
+The Feedback section will display some reviews by customers and
+information such as their comment, name, location and ratings. Any user
+can add their own feedback by clicking the button 'Give Feedback'.
 
--   **Suitable Pictures:** Having the problem of choosing suitable and
-    > high quality pictures to display at the top of Home page, some
-    > pictures become blurry because the space is too huge.
+## 5.6 Pharmacy Management Page
 
-```{=html}
-<!-- -->
-```
--   **Navigation Flow**: Having the problem to make sure all buttons at
-    > the home page redirect to the correct pages. For example, if a
-    > user is currently at the Booking page and wants to go to Home page
-    > and click Home button, it will not function and needs to click the
-    > logo instead.
+![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
 
-## 6.2 User Authentication
 
--   **Security**: Implementing strong password policies (min 8 digits)
-    > to protect user data.
+The Feedback section will display some reviews by customers and
+information such as their comment, name, location and ratings. Any user
+can add their own feedback by clicking the button 'Give Feedback'.
 
--   **Usability**: Balancing security with a user-friendly login and
-    > registration process.
+## 5.6 Feedback Page
 
--   **Account Verification**: Need to handle email verification to
-    > ensure only legitimate users register.
+![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
 
-## 6.3 Student Registration
 
--   **Data Validation**: Ensuring accurate and complete data entry while
-    > providing helpful feedback for errors.
-
--   **User Experience**: Need to make the registration process
-    > straightforward and easy to follow.
-
--   **Data Store:** Having the problem where the user isn't registered
-    > after filling out the registration form.
-
-## 6.4 Class Booking
-
-**Booking Process**
-
--   **Data Store:** Having the problem where the user isn't registered
-    > after filling out the registration form.
-
-**Viewing and Cancelling Bookings**
-
--   **Data Consistency**: Ensuring bookings are updated and synchronized
-    > across the system.
-
--   **User Control**: Providing easy options for users to view and
-    > manage their bookings.
-
-## 6.5 Dashboard Page
-
--   **Comprehensive Overview**: Designing a dashboard that provides all
-    > necessary information at a glance.
-
--   **Cancellation Process**: Implementing a smooth and secure process
-    > for users to cancel bookings.
-
-Problem:
-
--   **Navigation**: When user clicks 'Add Class' button, the page
-    > doesn't display booking form.
-
-## 6.6 Feedback and Rating
-
--   **User Engagement**: Encouraging students to provide feedback and
-    > making the process easy.
-
--   **Data Collection**: Ensuring feedback is collected, stored, and
-    > displayed effectively.
-
-Problem:
-
--   Data Store: Having the problem where after user fills in the
-    > feedback form, their record isn't inserted in the database.
-
-## 6.7 Cross-Feature Challenges
-
-Data Security and Privacy
-
--   **Compliance**: Need to use only AI pictures to ensure data
-    > protection regulations such as PDPA.
-
-Integration with Third-Party Services
-
--   **Email Services**: Ensuring reliable email delivery at Contact
-    > section.
-
-Testing and Quality Assurance
-
--   **Comprehensive Testing**: Conducting thorough testing to identify
-    > and fix bugs before deployment.
+The Feedback section will display some reviews by customers and
+information such as their comment, name, location and ratings. Any user
+can add their own feedback by clicking the button 'Give Feedback'.
