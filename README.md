@@ -44,21 +44,11 @@ DR KHAIRUL AZMI
 
 **Table of Contents**
 
-[**1. INTRODUCTION OF THE WEB APPLICATION
-3**](#introduction-of-the-web-application)
+<ins>**1. INTRODUCTION OF THE PROPOSED WEB APPLICATION**</ins>
 
-[**2. OBJECTIVES OF THE WEB APPLICATION
-3**](#objectives-of-the-web-application)
+<ins>**2. OBJECTIVES OF THE PROPOSED WEB APPLICATION**</ins>
 
-> [2.1 Simplify the Registration Process
-> 3](#simplify-the-registration-process)
->
-> [2.2 Fasten Booking Process 3](#fasten-booking-process)
->
-> [2.3 Flexible Scheduling 3](#flexible-scheduling)
-
-[**3. FEATURES AND FUNCTIONALITIES OF THE WB APPLICATION
-3**](#features-and-functionalities-of-the-wb-application)
+<ins>**3. FEATURES AND FUNCTIONALITIES OF THE PROPOSED WEB APPLICATION**</ins>
 
 > [3.1 Home Page 3](#home-page)
 >
