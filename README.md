@@ -117,56 +117,84 @@ Facilitates smooth communication between doctors and hospital staff, ensuring be
 
 ## 3.1 Home Page
 
--   Background information on the organization.
+The home page serves as the welcoming interface for users. It includes:
 
--   Information about instructors and class sessions, including class
-    > fees.
-
--   Call-to-action buttons such as 'Book Now', 'Log In' and 'Register'.
+- Background Information: Details about the hospital
+- Key Highlights: Overview of departments, specialties, and healthcare facilities.
+- Call-to-Action Buttons: Direct access to functionalities such as 'Book Appointment', 'Log In', and 'Register'.
+- Announcements Section: Updates on hospital events, health tips, and news.
 
 ## 3.2 User Authentication
 
-Users need to log in with the registered email and password. The
-registration page allows new users to sign up.
+- Users need to log in with the registered email and password. 
+- The registration page allows new users to sign up.
 
 ## 3.3 Patient Registration
 
--   Enter student information.
+- Manage patient information, including creating, updating, viewing, and deleting patient records.  
+- Collect essential details like name, contact info, address, date of birth, and medical history.  
+- Allow patients to register themselves or be registered by staff.  
 
--   Choose available sessions.
+Key Features:  
+- CRUD operations for patient profiles.  
+- Search and filter patients by name, ID, or contact number.  
+- Integration with other modules for seamless data sharing (e.g., appointments, medical records).  
 
--   Tutors review and approve registrations depending on their
-    > eligibility and availability.
-
--   Approved students will get notification and log-in credentials via
-    > email.
 
 ## 3.4 Appointment Scheduling
 
-Students can book a class at a specific day and date at the Booking
-page. Students can view their booked sessions and cancel their booking
-at the Dashboard page.
+- Allow patients to book appointments with doctors based on availability.  
+- Maintain a calendar for scheduled appointments.  
+- Provide notifications for upcoming appointments.  
+
+Key Features:  
+- CRUD operations for appointments.  
+- Real-time doctor availability checks.  
+- Allow rescheduling or cancellation of appointments.  
+
 
 ## 3.5 Billing and Payment
 
-Student Dashboard: An overview of scheduled sessions, including
-information and cancellation option.
+- Generate bills for consultations, treatments, or services.  
+- Track payment status (paid, unpaid, or pending).  
+- Provide multiple payment options like cash, card, or online payment gateways.  
+
+Key Features:  
+- Invoice generation with detailed billing breakdown.  
+- Integration with the medical records module to fetch treatment costs.  
+- Secure online payment processing.  
+
 
 ## 3.6 Medical Records
 
-Allow students to submit comments and rate their classes.
+- Store and manage patients’ medical history, including prescriptions, lab reports, and diagnoses.  
+- Provide access to authorized personnel (e.g., doctors, patients).  
 
-## 3.6 Doctor Management
+Key Features:  
+- Secure upload and retrieval of medical documents.  
+- Allow doctors to add notes or update patient records.  
+- Ensure data confidentiality and compliance with healthcare regulations.  
 
-Allow students to submit comments and rate their classes.
 
-## 3.6 Pharmacy Management
+## 3.7 Doctor Management
 
-Allow students to submit comments and rate their classes.
+- Manage doctor profiles, including personal details, specializations, and availability.  
+- Display available doctors for patient appointment booking.  
 
-## 3.6 Feedback and Rating
+Key Features:  
+- CRUD operations for doctor profiles.  
+- Doctor availability scheduling and leave management.  
+- Search and filter doctors by specialization or availability. 
 
-Allow students to submit comments and rate their classes.
+## 3.8 Pharmacy Management
+
+- Manage prescriptions and available medications.
+- Allow patients to order prescribed medications online or in person.
+- Maintain stock levels for medicines and notify when inventory is low.
+
+Key Features:
+- CRUD Operations for Pharmacy Management Module
+
 
 # 4. ENTITY RELATIONSHIP DIAGRAM (ERD)
 
