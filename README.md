@@ -69,27 +69,29 @@ DR KHAIRUL AZMI
 >
 > 3.4 Feedback and Rating 
 
-<ins>**4. SEQUENCE DIAGRAM**</ins>
+<ins>**4. ENTITY RELATIONSHIP DIAGRAM**</ins>
 
-<ins>**5. WEBSITE MOCK-UP**<ins>
+<ins>**5. SEQUENCE DIAGRAM**</ins>
 
-> 5.1 Home Page 
+<ins>**6. WEBSITE MOCK-UP**<ins>
+
+> 6.1 Home Page 
 >
-> 5.2 User Authentication
+> 6.2 User Authentication
 >
-> 5.3 Patient Registration
+> 6.3 Patient Registration
 >
-> 5.4 Appointment Scheduling
+> 6.4 Appointment Scheduling
 >
-> 5.5 Billing and Payment
+> 6.5 Billing and Payment
 >
-> 5.6 Medical Records
+> 6.6 Medical Records
 >
-> 5.7 Doctor Management
+> 6.7 Doctor Management
 >
-> 5.8 Pharmacy Management
+> 6.8 Pharmacy Management
 >
-> 5.9 Feedback and Rating
+> 6.9 Feedback and Rating
 #  
 
 # 1. INTRODUCTION OF THE PROPOSED WEB APPLICATION
@@ -174,15 +176,17 @@ Allow students to submit comments and rate their classes.
 
 Allow students to submit comments and rate their classes.
 
-# 4. SEQUENCE DIAGRAM
+# 4. ENTITY RELATIONSHIP DIAGRAM (ERD)
 
-## 4.1 Sequence Diagram
+# 5. SEQUENCE DIAGRAM
+
+## 5.1 Sequence Diagram
 ![sequence diagram](https://github.com/user-attachments/assets/95cc3c68-e912-4ab1-a930-5d7da88d25a0)
 
 
-# 5. WEBSITE MOCK-UP
+# 6. WEBSITE MOCK-UP
 
-## 5.1 Home Page
+## 6.1 Home Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/b3998c85-6de0-436e-99c5-c51bcdccc40e)
 
@@ -224,7 +228,7 @@ Contact section:
 This is the contact section where users can send any messages or
 questions to i-Iqra' by filling in their name and email address.
 
-## 5.2 User Authentication Page
+## 6.2 User Authentication Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/3fe325f1-0f49-4e03-b985-b8d404880585)
 
@@ -233,7 +237,7 @@ Users need to register by filling in their name, email, password,
 confirm password, gender and age. Then, they click the Register button
 or Back to Home to go back to the homepage.
 
-## 5.3 Patient Registration Page
+## 6.3 Patient Registration Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/2a36344e-49a2-4aab-a698-6ab49adadaae)
 
@@ -241,7 +245,7 @@ or Back to Home to go back to the homepage.
 Users need to Log in by filling in their name, and password. Then, they
 click the log in button or Back to Home to go back to the homepage.
 
-## 5.4 Appointment Scheduling Page
+## 6.4 Appointment Scheduling Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/8c5535c8-0451-4411-81d8-ce0e43501b96)
 
@@ -255,9 +259,7 @@ cancel the booking. There are 'Add Class' buttons that redirect back to
 the booking section, 'Logout' button to logout and 'Back to Home' button
 go to the homepage.
 
-## 
-
-## 5.5 Billing and Payment Page
+## 6.5 Billing and Payment Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/b9017469-763e-4e29-8b1d-e34cdeadec98)
 
@@ -272,7 +274,7 @@ choose class type, session platform, level of study and additional
 information (if any). Their booking information will be displayed at the
 Dashboard page.
 
-## 5.6 Medical Records Page
+## 6.6 Medical Records Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
 
@@ -281,7 +283,7 @@ The Feedback section will display some reviews by customers and
 information such as their comment, name, location and ratings. Any user
 can add their own feedback by clicking the button 'Give Feedback'.
 
-## 5.6 Doctor Management Page
+## 6.7 Doctor Management Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
 
@@ -290,7 +292,7 @@ The Feedback section will display some reviews by customers and
 information such as their comment, name, location and ratings. Any user
 can add their own feedback by clicking the button 'Give Feedback'.
 
-## 5.6 Pharmacy Management Page
+## 6.8 Pharmacy Management Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
 
@@ -299,7 +301,7 @@ The Feedback section will display some reviews by customers and
 information such as their comment, name, location and ratings. Any user
 can add their own feedback by clicking the button 'Give Feedback'.
 
-## 5.6 Feedback Page
+## 6.9 Feedback Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
 
