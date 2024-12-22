@@ -178,6 +178,7 @@ Allow students to submit comments and rate their classes.
 
 # 4. ENTITY RELATIONSHIP DIAGRAM (ERD)
 
+![erd webapp drawio](https://github.com/user-attachments/assets/7ba32166-4cd7-49cf-beb9-4f064b88a427)
 
 
 # 5. SEQUENCE DIAGRAM
