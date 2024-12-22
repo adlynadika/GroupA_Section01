@@ -178,6 +178,8 @@ Allow students to submit comments and rate their classes.
 
 # 4. ENTITY RELATIONSHIP DIAGRAM (ERD)
 
+
+
 # 5. SEQUENCE DIAGRAM
 
 ## 5.1 Sequence Diagram
