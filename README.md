@@ -66,8 +66,6 @@ DR KHAIRUL AZMI
 > > 3.3.5 Doctor Management
 > >
 > > 3.3.6 Pharmacy Management
->
-> 3.4 Feedback and Rating 
 
 <ins>**4. ENTITY RELATIONSHIP DIAGRAM**</ins>
 
@@ -90,8 +88,7 @@ DR KHAIRUL AZMI
 > 6.7 Doctor Management
 >
 > 6.8 Pharmacy Management
->
-> 6.9 Feedback and Rating
+> 
 #  
 
 # 1. INTRODUCTION OF THE PROPOSED WEB APPLICATION
@@ -104,22 +101,17 @@ The \'Hospital Management System\' is a web-based platform that will helps the h
 
 The objective of the hospital management system website is to provide a comprehensive, user-friendly platform that efficiently manages hospital operations. It offers features such as a dynamic home page, secure user authentication, seamless patient registration, easy appointment scheduling, integrated billing and payment systems, organized medical records management, doctor and pharmacy management, and a feedback and rating system to enhance patient satisfaction. This system aims to improve healthcare service delivery, optimize administrative tasks, and foster effective communication between patients, doctors, and hospital staff.
 
-## 2.1 Simplify the Registration Process
+## 2.1 Easy Appointment and Patient Registration
 
-Give students access to an intuitive registration portal so they may
-sign up for classes.
+Simplifies the process for patients to register and schedule appointments, reducing wait times and improving convenience.
 
-## 2.2 Fasten Booking Process
+## 2.2 Organized Medical Records and Billing
 
-Save time and smoothen the booking processes without needing to go to
-the place and students can book and adjust schedules anytime and
-anywhere they like.
+Keeps patient records and billing information in one place, making it easier for staff to manage and for patients to pay their bills.
 
-## 2.3 Flexible Scheduling
+## 2.3 Efficient Communication Between Patients and Staff
 
-Provide students with the ability to swiftly schedule available times,
-and provide tutors the ability to oversee and validate these
-reservations.
+Facilitates smooth communication between doctors and hospital staff, ensuring better coordination and quicker response times.
 
 # 3. FEATURES AND FUNCTIONALITIES OF THE PROPOSED WEB APPLICATION
 
@@ -296,15 +288,6 @@ information such as their comment, name, location and ratings. Any user
 can add their own feedback by clicking the button 'Give Feedback'.
 
 ## 6.8 Pharmacy Management Page
-
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
-
-
-The Feedback section will display some reviews by customers and
-information such as their comment, name, location and ratings. Any user
-can add their own feedback by clicking the button 'Give Feedback'.
-
-## 6.9 Feedback Page
 
 ![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
 
