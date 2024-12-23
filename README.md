@@ -189,8 +189,8 @@ Key Features:
 ## 3.8 Pharmacy Management
 
 - Manage prescriptions and available medications.
-- Allow patients to order prescribed medications online or in person.
-- Maintain stock levels for medicines and notify when inventory is low.
+- Maintain stock levels for medicines includes updatable records.
+- Includes manufactured date and expiry date.
 
 Key Features:
 - CRUD Operations for Pharmacy Management Module
