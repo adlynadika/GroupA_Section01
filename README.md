@@ -308,12 +308,13 @@ can add their own feedback by clicking the button 'Give Feedback'.
 
 ## 6.7 Doctor Management Page
 
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
+![view or delete - arif](https://github.com/user-attachments/assets/516c66ab-5d92-420d-8394-4fca0f4bca5b)
+![add or update - arif](https://github.com/user-attachments/assets/b73e4c04-d61c-41b5-9eeb-103f1249b7e6)
 
 
-The Feedback section will display some reviews by customers and
-information such as their comment, name, location and ratings. Any user
-can add their own feedback by clicking the button 'Give Feedback'.
+The Doctor page will display doctor details on the table such as
+id, name, department, email, schedule and contact number.
+Admin is allowed to add, update or delete doctor details.
 
 ## 6.8 Pharmacy Management Page
 
