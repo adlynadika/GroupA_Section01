@@ -318,7 +318,8 @@ Admin is allowed to add, update or delete doctor details.
 
 ## 6.8 Pharmacy Management Page
 
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
+![Pharmacy](https://github.com/user-attachments/assets/5c528bae-bbf1-4412-8849-ca575897b120)
+
 
 
 The Feedback section will display some reviews by customers and
