@@ -220,7 +220,8 @@ to register patient,update appointment and etc.
 
 ## 6.2 Home Page
 
-![HOME (1)](https://github.com/user-attachments/assets/77fb79d5-c5f9-40d7-83eb-21066d49ec87)
+![HOME - sultan](https://github.com/user-attachments/assets/80a5b5cf-68f1-4d54-83a9-3451add96573)
+
 
 Admins could see the Homepage of the system with navigation bar on top of the page with
 selection of menu such as doctors,appointment,invoice,pharmacy and etc.
