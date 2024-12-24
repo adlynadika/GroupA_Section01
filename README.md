@@ -239,8 +239,11 @@ User/administrator of the hospital can input the details of the patient. Click s
 
 ## 6.4 Appointment Scheduling Page
 ![add appointment-fatnin](https://github.com/user-attachments/assets/c482bac3-2635-48de-bf68-0b651e3595aa)
+
 ![view appointmnet-fatnin](https://github.com/user-attachments/assets/2543f760-6c76-4d18-8676-ac55e9b9aa9b)
+
 ![update appointment-fatnin](https://github.com/user-attachments/assets/1a84d703-af0c-4cea-b4e2-6044e9eb0889)
+
 ![delete appointment-fatnin](https://github.com/user-attachments/assets/cdb91c5d-9df7-4bb3-8fe1-d4fefde383a0)
 
 
@@ -252,9 +255,13 @@ Admins is allowed to add, view, update or delete appointment details.
 ## 6.5 Billing and Payment Page
 
 ![Create invoice - ain](https://github.com/user-attachments/assets/36ab541a-9a31-4e6c-a766-d2d1a063b422)
+
 ![Billing list - ain](https://github.com/user-attachments/assets/c3aa6b8c-4659-4b3b-9259-a45bf1305dad)
+
 ![view invoice - ain](https://github.com/user-attachments/assets/8109fd61-8b67-48c2-835f-52b96b6225d5)
+
 ![update invoice - ain](https://github.com/user-attachments/assets/d52f3cee-482e-4783-a7c9-0c61e1ad0917)
+
 ![delete invoice - ain](https://github.com/user-attachments/assets/bc381f31-b89b-4193-b285-8759e047432f)
 
 
@@ -264,7 +271,9 @@ Admin is allowed to create a new invoice, view and update the existing invoice a
 ## 6.6 Medical Records Page
 
 ![medical records - adlyn](https://github.com/user-attachments/assets/708479e8-81de-45aa-97e3-e628f7a81f77)
+
 ![create - adlyn](https://github.com/user-attachments/assets/9f70c2b3-60ce-48b5-9828-e39a467a6ed3)
+
 ![create - adlyn](https://github.com/user-attachments/assets/3904949e-8ada-4fb9-b9b8-71f79eb19280)
 
 
@@ -281,8 +290,11 @@ Admin is allowed to add, update or delete doctor details.
 ## 6.8 Pharmacy Management Page
 
 ![Pharmacy-Sultan](https://github.com/user-attachments/assets/78a52105-5aa0-41e4-9e56-4842595f514d)
+
 ![Pharmacy Update Record-Sultan](https://github.com/user-attachments/assets/98a5eef2-a145-42e0-a472-21edab3543e5)
+
 ![Pharmacy Delete Record-Sultan](https://github.com/user-attachments/assets/c0c12e65-c453-4f2a-ad8b-e21796396356)
+
 ![Pharmacy Add Record-Sultan](https://github.com/user-attachments/assets/8ee52f8f-9dd5-4f5e-bc84-77d5c43a26b1)
 
 The Pharmacy Page will display the drugs details in a table with its manufactured date,
