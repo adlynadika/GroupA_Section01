@@ -234,6 +234,9 @@ User/administrator of the hospital can input the details of the patient. Click s
 
 ## 6.4 Appointment Scheduling Page
 ![add appointment-fatnin](https://github.com/user-attachments/assets/4449fccb-ff2d-45de-9370-0ccff14485bc)
+![view appointment-fatnin](https://github.com/user-attachments/assets/93167935-0d06-4957-9e10-e041fa1f4fe8)
+![update appointment-fatnin](https://github.com/user-attachments/assets/3a146b8f-785b-499d-b4d8-60b76855b79a)
+![delete appointment-fatnin](https://github.com/user-attachments/assets/7472ef81-64f2-4c87-b0d8-ccfb26a08bde)
 
 
 
