@@ -144,6 +144,7 @@ Key Features:
 
 
 ## 3.4 Appointment Scheduling
+![add appointment-fatnin](https://github.com/user-attachments/assets/4449fccb-ff2d-45de-9370-0ccff14485bc)
 
 
 - Allow patients to book appointments with doctors based on availability.  
