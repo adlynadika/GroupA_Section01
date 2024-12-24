@@ -267,8 +267,8 @@ can add their own feedback by clicking the button 'Give Feedback'.
 
 ## 6.7 Doctor Management Page
 
-![view or delete - arif](https://github.com/user-attachments/assets/516c66ab-5d92-420d-8394-4fca0f4bca5b)
-![add or update - arif](https://github.com/user-attachments/assets/b73e4c04-d61c-41b5-9eeb-103f1249b7e6)
+![Doctor View and Delete - arif](https://github.com/user-attachments/assets/2aef5f9c-855e-4edc-86d8-cb1ddccf234c)
+![Doctor Add and Update - arif](https://github.com/user-attachments/assets/8031600b-9c18-4db7-8359-989b6d4f2ab7)
 
 
 The Doctor page will display doctor details on the table such as
