@@ -144,8 +144,6 @@ Key Features:
 
 
 ## 3.4 Appointment Scheduling
-![add appointment-fatnin](https://github.com/user-attachments/assets/4449fccb-ff2d-45de-9370-0ccff14485bc)
-
 
 - Allow patients to book appointments with doctors based on availability.  
 - Maintain a calendar for scheduled appointments.  
@@ -235,6 +233,7 @@ selection of menu such as doctors,appointment,invoice,pharmacy and etc.
 User/administrator of the hospital can input the details of the patient. Click submit button to create a new patient record.
 
 ## 6.4 Appointment Scheduling Page
+![add appointment-fatnin](https://github.com/user-attachments/assets/4449fccb-ff2d-45de-9370-0ccff14485bc)
 
 
 
