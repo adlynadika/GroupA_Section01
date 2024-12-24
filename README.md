@@ -145,6 +145,7 @@ Key Features:
 
 ## 3.4 Appointment Scheduling
 
+
 - Allow patients to book appointments with doctors based on availability.  
 - Maintain a calendar for scheduled appointments.  
 - Provide notifications for upcoming appointments.  
