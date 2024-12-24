@@ -59,7 +59,7 @@ DR KHAIRUL AZMI
 > >
 > > 3.3.2 Appointment Scheduling
 > >
-> > 3.3.3 Billing and Payment
+> > 3.3.3 Billing and Invoice
 > >
 > > 3.3.4 Medical Records
 > >
@@ -81,7 +81,7 @@ DR KHAIRUL AZMI
 >
 > 6.4 Appointment Scheduling
 >
-> 6.5 Billing and Payment
+> 6.5 Billing and Invoice
 >
 > 6.6 Medical Records
 >
@@ -99,7 +99,7 @@ The \'Hospital Management System\' is a web-based platform that will helps the h
 
 # 2. OBJECTIVES OF THE WEB APPLICATION
 
-The objective of the hospital management system website is to provide a comprehensive, user-friendly platform that efficiently manages hospital operations. It offers features such as a dynamic home page, secure user authentication, seamless patient registration, easy appointment scheduling, integrated billing and payment systems, organized medical records management, doctor and pharmacy management, and a feedback and rating system to enhance patient satisfaction. This system aims to improve healthcare service delivery, optimize administrative tasks, and foster effective communication between patients, doctors, and hospital staff.
+The objective of the hospital management system website is to provide a comprehensive, user-friendly platform that efficiently manages hospital operations. It offers features such as a dynamic home page, secure user authentication, seamless patient registration, easy appointment scheduling, integrated billing and invoice systems, organized medical records management, doctor and pharmacy management, and a feedback and rating system to enhance patient satisfaction. This system aims to improve healthcare service delivery, optimize administrative tasks, and foster effective communication between patients, doctors, and hospital staff.
 
 ## 2.1 Easy Appointment and Patient Registration
 
@@ -155,16 +155,16 @@ Key Features:
 - Allow rescheduling or cancellation of appointments.  
 
 
-## 3.5 Billing and Payment
+## 3.5 Billing and Invoice
 
 - Generate bills for consultations, treatments, or services.  
 - Track payment status (paid, unpaid, or pending).  
-- Provide multiple payment options like cash, card, or online payment gateways.  
+- Provide detailed billing breakdowns for transparency.  
 
 Key Features:  
 - Invoice generation with detailed billing breakdown.  
 - Integration with the medical records module to fetch treatment costs.  
-- Secure online payment processing.  
+- Clear display of payment status for tracking purposes.
 
 
 ## 3.6 Medical Records
@@ -249,6 +249,13 @@ go to the homepage.
 ## 6.5 Billing and Payment Page
 
 ![Create invoice - ain](https://github.com/user-attachments/assets/33db7670-8aec-43d2-b1e8-34b1a05174d0)
+![Billing list - ain](https://github.com/user-attachments/assets/d71cbb4e-1d9d-46f0-af48-722390ac90f3)
+![view invoice - ain](https://github.com/user-attachments/assets/c0b7cebe-c2da-4145-bdc1-819909e065d0)
+![update invoice - ain](https://github.com/user-attachments/assets/7d9d93c0-3fa6-405d-bb7e-e77df81e9c9e)
+![delete invoice - ain](https://github.com/user-attachments/assets/5fd755e8-9804-4e75-a8be-f15bc5d29321)
+
+The Billing and Invoice section will display the billing list of the patients and their payment status. 
+Admin is allowed to create a new invoice, view and update the existing invoice and delete invoice.
 
 ## 6.6 Medical Records Page
 
