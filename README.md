@@ -95,7 +95,7 @@ DR KHAIRUL AZMI
 
 **Project Name:** Hospital Management System
 
-The \'Hospital Management System\' is a web-based platform that will helps the hospital's administrator to  manage the hospital's database efficiently and seamlessly. This platform seeks efficiency in the hospital management by offering a robust back-end coding and friendly interface. By focusing on key functions like registration of patient, medical record management and doctor and pharmacy record management, the system improves the administrative experience of hospital management by enhancing user experience and manage data of the hospital efficiently.
+The \'Hospital Management System\' is a web-based platform that will helps the hospital's administrator to  manage the hospital's database efficiently and seamlessly. This platform seeks efficiency in the hospital management by offering a robust back-end coding and friendly interface. By focusing on key functions like registration of patient, medical record management and doctor and pharmacy record management, the system improves the administrative experience of hospital management by enhancing user experience and manage data of the hospital efficiently. The hospital that we choosen as the pilot test is the Hospital Kuala Lumpur(HKL) to make sure our web application system is as close as the real world system and could be implemented in the future.
 
 # 2. OBJECTIVES OF THE WEB APPLICATION
 
