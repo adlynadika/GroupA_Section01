@@ -220,7 +220,7 @@ to register patient,update appointment and etc.
 
 ## 6.2 Home Page
 
-![HOME - sultan](https://github.com/user-attachments/assets/80a5b5cf-68f1-4d54-83a9-3451add96573)
+![HOME - sultan (1)](https://github.com/user-attachments/assets/0d875ca8-8282-44af-a8ed-1bc3991b952c)
 
 
 Admins could see the Homepage of the system with navigation bar on top of the page with
