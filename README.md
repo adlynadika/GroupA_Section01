@@ -246,11 +246,12 @@ Admins is allowed to add, view, update or delete appointment details.
 
 ## 6.5 Billing and Payment Page
 
-![Create invoice - ain](https://github.com/user-attachments/assets/33db7670-8aec-43d2-b1e8-34b1a05174d0)
-![Billing list - ain](https://github.com/user-attachments/assets/d71cbb4e-1d9d-46f0-af48-722390ac90f3)
-![view invoice - ain](https://github.com/user-attachments/assets/c0b7cebe-c2da-4145-bdc1-819909e065d0)
-![update invoice - ain](https://github.com/user-attachments/assets/7d9d93c0-3fa6-405d-bb7e-e77df81e9c9e)
-![delete invoice - ain](https://github.com/user-attachments/assets/5fd755e8-9804-4e75-a8be-f15bc5d29321)
+![Create invoice - ain](https://github.com/user-attachments/assets/36ab541a-9a31-4e6c-a766-d2d1a063b422)
+![Billing list - ain](https://github.com/user-attachments/assets/c3aa6b8c-4659-4b3b-9259-a45bf1305dad)
+![view invoice - ain](https://github.com/user-attachments/assets/8109fd61-8b67-48c2-835f-52b96b6225d5)
+![update invoice - ain](https://github.com/user-attachments/assets/d52f3cee-482e-4783-a7c9-0c61e1ad0917)
+![delete invoice - ain](https://github.com/user-attachments/assets/bc381f31-b89b-4193-b285-8759e047432f)
+
 
 The Billing and Invoice section will display the billing list of the patients and their payment status. 
 Admin is allowed to create a new invoice, view and update the existing invoice and delete invoice.
