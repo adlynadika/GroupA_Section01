@@ -262,11 +262,10 @@ or Back to Home to go back to the homepage.
 
 ## 6.3 Patient Registration Page
 
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/2a36344e-49a2-4aab-a698-6ab49adadaae)
+![image]()
 
 
-Users need to Log in by filling in their name, and password. Then, they
-click the log in button or Back to Home to go back to the homepage.
+User/administrator of the hospital can input the details of the patient. Click submit button to create a new patient record.
 
 ## 6.4 Appointment Scheduling Page
 
