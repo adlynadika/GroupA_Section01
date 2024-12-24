@@ -316,11 +316,11 @@ id, name, department, email, schedule and contact number.
 Admin is allowed to add, update or delete doctor details.
 
 ## 6.8 Pharmacy Management Page
+![Pharmacy - Sultan](https://github.com/user-attachments/assets/cb7d131c-e8ad-4bbd-9714-2c9aa9010f36)
 
-![Pharmacy](https://github.com/user-attachments/assets/5c528bae-bbf1-4412-8849-ca575897b120)
+![Pharmacy Add Record - Sultan](https://github.com/user-attachments/assets/a0575323-58bf-41c8-897d-9ea931c825a2)
 
 
-
-The Feedback section will display some reviews by customers and
-information such as their comment, name, location and ratings. Any user
-can add their own feedback by clicking the button 'Give Feedback'.
+The Pharmacy Page will display the drugs details in a table with its manufactured date,
+expiry date,quantity and price.Admin could add a new record of drugs,
+update the record and delete the records.
