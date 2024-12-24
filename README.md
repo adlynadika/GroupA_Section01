@@ -213,7 +213,7 @@ Key Features:
 
 ## 6.1 Authentication Page
 
-![Authentication Page](https://github.com/user-attachments/assets/93ef2c0f-4f44-4f2d-bfc9-503afe687174)
+![Authentication Page](https://github.com/user-attachments/assets/c6953c87-606c-4c39-ba51-097805ad73fa)
 
 This page requires the admin to enter their username and password to login into the system
 to register patient,update appointment and etc.
