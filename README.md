@@ -248,18 +248,7 @@ go to the homepage.
 
 ## 6.5 Billing and Payment Page
 
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/b9017469-763e-4e29-8b1d-e34cdeadec98)
-
-
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/557368f0-51d4-45f8-b621-a0d045e84f12)
-
-
-Clicking the 'Book Now' button will lead users to this page, to book a
-class. They need to fill in details such as full name, email, phone
-number, then choose day and date for their class. Next, they need to
-choose class type, session platform, level of study and additional
-information (if any). Their booking information will be displayed at the
-Dashboard page.
+![Create invoice - ain](https://github.com/user-attachments/assets/33db7670-8aec-43d2-b1e8-34b1a05174d0)
 
 ## 6.6 Medical Records Page
 
