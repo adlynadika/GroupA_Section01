@@ -227,9 +227,13 @@ selection of menu such as doctors,appointment,invoice,pharmacy and etc.
 
 ## 6.3 Patient Registration Page
 
-![add-Firdaus](https://github.com/user-attachments/assets/34bd9d98-ae8a-4a80-a5cf-79f352fab76d)
+![Patient-Firdaus](https://github.com/user-attachments/assets/23cdf7e6-2bb3-4df6-8365-6e1ee5de86e5)
+![add-Firdaus](https://github.com/user-attachments/assets/4861a385-0310-4fe2-a500-cc1ae9d62acc)
+![update-Firdaus](https://github.com/user-attachments/assets/24c3d8f3-3208-4a1b-93dc-f4d56efb1ed1)
+![Patient delete-Firdaus](https://github.com/user-attachments/assets/11d050f1-7d95-49fc-bfee-86be50114478)
 
 
+This page will show the user/administrator the patient list, registeration and administrator can manage the list by CRUD operation.
 User/administrator of the hospital can input the details of the patient. Click submit button to create a new patient record.
 
 ## 6.4 Appointment Scheduling Page
