@@ -238,12 +238,12 @@ User/administrator of the hospital can input the details of the patient. Click s
 
 ## 6.4 Appointment Scheduling Page
 ![add appointment-fatnin](https://github.com/user-attachments/assets/c482bac3-2635-48de-bf68-0b651e3595aa)
-![view appointment-fatnin](https://github.com/user-attachments/assets/93167935-0d06-4957-9e10-e041fa1f4fe8)
-![update appointment-fatnin](https://github.com/user-attachments/assets/3a146b8f-785b-499d-b4d8-60b76855b79a)
-![delete appointment-fatnin](https://github.com/user-attachments/assets/7472ef81-64f2-4c87-b0d8-ccfb26a08bde)
+![view appointmnet-fatnin](https://github.com/user-attachments/assets/2543f760-6c76-4d18-8676-ac55e9b9aa9b)
+![update appointment-fatnin](https://github.com/user-attachments/assets/1a84d703-af0c-4cea-b4e2-6044e9eb0889)
+![delete appointment-fatnin](https://github.com/user-attachments/assets/cdb91c5d-9df7-4bb3-8fe1-d4fefde383a0)
 
 
-Admins/User of the hospital can input the details of the appointment through appointment record.
+Admin of the hospital can input the details of the appointment through appointment record.
 The Appointment page will display appointment form details on the table such as
 appointment id, doctor id, appointment date, and appointment time.
 Admins is allowed to add, view, update or delete appointment details.
