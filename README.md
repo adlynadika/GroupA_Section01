@@ -234,7 +234,7 @@ User/administrator of the hospital can input the details of the patient. Click s
 
 ## 6.4 Appointment Scheduling Page
 
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/8c5535c8-0451-4411-81d8-ce0e43501b96)
+
 
 
 Dashboard page will show the users their profile information such as
