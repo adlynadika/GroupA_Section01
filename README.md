@@ -278,10 +278,11 @@ id, name, department, email, schedule and contact number.
 Admin is allowed to add, update or delete doctor details.
 
 ## 6.8 Pharmacy Management Page
-![Pharmacy - Sultan](https://github.com/user-attachments/assets/cb7d131c-e8ad-4bbd-9714-2c9aa9010f36)
 
-![Pharmacy Add Record - Sultan](https://github.com/user-attachments/assets/a0575323-58bf-41c8-897d-9ea931c825a2)
-
+![Pharmacy-Sultan](https://github.com/user-attachments/assets/78a52105-5aa0-41e4-9e56-4842595f514d)
+![Pharmacy Update Record-Sultan](https://github.com/user-attachments/assets/98a5eef2-a145-42e0-a472-21edab3543e5)
+![Pharmacy Delete Record-Sultan](https://github.com/user-attachments/assets/c0c12e65-c453-4f2a-ad8b-e21796396356)
+![Pharmacy Add Record-Sultan](https://github.com/user-attachments/assets/8ee52f8f-9dd5-4f5e-bc84-77d5c43a26b1)
 
 The Pharmacy Page will display the drugs details in a table with its manufactured date,
 expiry date,quantity and price.Admin could add a new record of drugs,
