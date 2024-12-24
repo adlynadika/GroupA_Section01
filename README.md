@@ -115,7 +115,13 @@ Facilitates smooth communication between doctors and hospital staff, ensuring be
 
 # 3. FEATURES AND FUNCTIONALITIES OF THE PROPOSED WEB APPLICATION
 
-## 3.1 Home Page
+### 3.1 User Authentication
+
+- Users need to log in with the registered email and password. 
+- The registration page allows new users to sign up.
+
+
+# 3.2 Home Page
 
 The home page serves as the welcoming interface for users. It includes:
 
@@ -124,10 +130,6 @@ The home page serves as the welcoming interface for users. It includes:
 - Call-to-Action Buttons: Direct access to functionalities such as 'Book Appointment', 'Log In', and 'Register'.
 - Announcements Section: Updates on hospital events, health tips, and news.
 
-## 3.2 User Authentication
-
-- Users need to log in with the registered email and password. 
-- The registration page allows new users to sign up.
 
 ## 3.3 Patient Registration
 
@@ -209,56 +211,19 @@ Key Features:
 
 # 6. WEBSITE MOCK-UP
 
-## 6.1 Home Page
+## 6.1 Authentication Page
 
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/b3998c85-6de0-436e-99c5-c51bcdccc40e)
+![Authentication Page](https://github.com/user-attachments/assets/fc533905-a37d-445b-b722-d8fc566eea79)
 
-This is the homepage for i-Iqra' Academy website. There is a navigation
-bar at the top that consists of Home, About, Classes, Feedback, Contact,
-Dashboard and Book Now.
+This page requires the admin to enter their username and password to login into the system
+to register patient,update appointment and etc.
 
-Users can click the 'Our Story' button to go to the About Section and
-'See Classes Offered' button to go to the Classes section.
+## 6.2 Home Page
 
-About section:
+![HOME (1)](https://github.com/user-attachments/assets/77fb79d5-c5f9-40d7-83eb-21066d49ec87)
 
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/d1d932b0-ac1f-4d3f-bbb8-8347f65a52fc)
-
-
-When users scroll the Homepage, there is an About section where it will
-display the vision and mission of i-Iqra' Academy and users can click
-the 'Meet the Instructors' button to display all the staff and tutors.
-
-## 
-
-Classes section:
-
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/efdc460f-631d-4538-a6a5-1df2952b16bd)
-
-
-Feedback section:
-
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/a0a8702a-2066-458d-ace2-c1550d1b86d4)
-
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/d8352fe4-7a2f-42b2-8994-119cb56defc5)
-
-Contact section:
-
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/8a78bbe6-347c-48f5-b8c2-795b147b219e)
-
-
-
-This is the contact section where users can send any messages or
-questions to i-Iqra' by filling in their name and email address.
-
-## 6.2 User Authentication Page
-
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/3fe325f1-0f49-4e03-b985-b8d404880585)
-
-
-Users need to register by filling in their name, email, password,
-confirm password, gender and age. Then, they click the Register button
-or Back to Home to go back to the homepage.
+Admins could see the Homepage of the system with navigation bar on top of the page with
+selection of menu such as doctors,appointment,invoice,pharmacy and etc.
 
 ## 6.3 Patient Registration Page
 
