@@ -258,12 +258,10 @@ Admin is allowed to create a new invoice, view and update the existing invoice a
 
 ## 6.6 Medical Records Page
 
-![image](https://github.com/ainlizam/QuranBookingSystem/assets/170220596/6b6096f3-ae38-4608-933f-78ed0c330e49)
+![medical records - adlyn](https://github.com/user-attachments/assets/708479e8-81de-45aa-97e3-e628f7a81f77)
+![create - adlyn](https://github.com/user-attachments/assets/9f70c2b3-60ce-48b5-9828-e39a467a6ed3)
+![create - adlyn](https://github.com/user-attachments/assets/3904949e-8ada-4fb9-b9b8-71f79eb19280)
 
-
-The Feedback section will display some reviews by customers and
-information such as their comment, name, location and ratings. Any user
-can add their own feedback by clicking the button 'Give Feedback'.
 
 ## 6.7 Doctor Management Page
 
