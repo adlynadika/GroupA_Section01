@@ -274,7 +274,9 @@ Admin is allowed to create a new invoice, view and update the existing invoice a
 
 ![create - adlyn](https://github.com/user-attachments/assets/9f70c2b3-60ce-48b5-9828-e39a467a6ed3)
 
-![create - adlyn](https://github.com/user-attachments/assets/3904949e-8ada-4fb9-b9b8-71f79eb19280)
+![read - adlyn](https://github.com/user-attachments/assets/55160f5b-4e0c-4308-8b46-1bd16797223c)
+
+
 
 
 ## 6.7 Doctor Management Page
