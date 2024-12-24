@@ -239,16 +239,10 @@ User/administrator of the hospital can input the details of the patient. Click s
 ![delete appointment-fatnin](https://github.com/user-attachments/assets/7472ef81-64f2-4c87-b0d8-ccfb26a08bde)
 
 
-
-
-Dashboard page will show the users their profile information such as
-name, email, gender, age. It will also display all user's bookings such
-as full name, email, phone number, session day, session time and
-ustaz/ustazah name, class type, session type and study level. Users also
-can delete any booking by clicking the 'Drop' button if they want to
-cancel the booking. There are 'Add Class' buttons that redirect back to
-the booking section, 'Logout' button to logout and 'Back to Home' button
-go to the homepage.
+Admins/User of the hospital can input the details of the appointment through appointment record.
+The Appointment page will display appointment form details on the table such as
+appointment id, doctor id, appointment date, and appointment time.
+Admins is allowed to add, view, update or delete appointment details.
 
 ## 6.5 Billing and Payment Page
 
