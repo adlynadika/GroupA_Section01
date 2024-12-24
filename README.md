@@ -262,7 +262,7 @@ or Back to Home to go back to the homepage.
 
 ## 6.3 Patient Registration Page
 
-![image]()
+![add-Firdaus](https://github.com/user-attachments/assets/34bd9d98-ae8a-4a80-a5cf-79f352fab76d)
 
 
 User/administrator of the hospital can input the details of the patient. Click submit button to create a new patient record.
