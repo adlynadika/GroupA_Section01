@@ -135,7 +135,7 @@ The home page serves as the welcoming interface for users. It includes:
 
 - Manage patient information, including creating, updating, viewing, and deleting patient records.  
 - Collect essential details like name, contact info, address, date of birth, and medical history.  
-- Allow patients to register themselves or be registered by staff.  
+- Patients are registered by the staff.  
 
 Key Features:  
 - CRUD operations for patient profiles.  
@@ -146,9 +146,7 @@ Key Features:
 ## 3.4 Appointment Scheduling
 
 - Allow patients to book appointments with doctors based on availability.  
-- Maintain a calendar for scheduled appointments.  
-- Provide notifications for upcoming appointments.  
-
+- Shows the appointment slots including the completed one.
 Key Features:  
 - CRUD operations for appointments.  
 - Real-time doctor availability checks.  
@@ -170,7 +168,7 @@ Key Features:
 ## 3.6 Medical Records
 
 - Store and manage patients’ medical history, including prescriptions, lab reports, and diagnoses.  
-- Provide access to authorized personnel (e.g., doctors, patients).  
+- Provide access to authorized personnel (e.g., doctors).  
 
 Key Features:  
 - Secure upload and retrieval of medical documents.  
