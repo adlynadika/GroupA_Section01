@@ -126,9 +126,8 @@ Facilitates smooth communication between doctors and hospital staff, ensuring be
 The home page serves as the welcoming interface for users. It includes:
 
 - Background Information: Details about the hospital
-- Key Highlights: Overview of departments, specialties, and healthcare facilities.
-- Call-to-Action Buttons: Direct access to functionalities such as 'Book Appointment', 'Log In', and 'Register'.
-- Announcements Section: Updates on hospital events, health tips, and news.
+- Key Highlights: Overview of the vission and mission of the hospital
+- Call-to-Action Buttons: Direct access to functionalities such as 'Pharmacy','Doctors','Appointment'
 
 
 ## 3.3 Patient Registration
