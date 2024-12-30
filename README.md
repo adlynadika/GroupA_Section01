@@ -115,13 +115,13 @@ Facilitates smooth communication between doctors and hospital staff, ensuring be
 
 # 3. FEATURES AND FUNCTIONALITIES OF THE PROPOSED WEB APPLICATION
 
-### 3.1 User Authentication
+## 3.1 User Authentication
 
 - Users need to log in with the registered email and password. 
 - The registration page allows new users to sign up.
 
 
-# 3.2 Home Page
+## 3.2 Home Page
 
 The home page serves as the welcoming interface for users. It includes:
 
